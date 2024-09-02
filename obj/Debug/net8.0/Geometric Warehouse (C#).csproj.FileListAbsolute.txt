@@ -1,0 +1,14 @@
+C:\Users\tahmi\OneDrive\Documents\Geometric Warehouse (C#)\bin\Debug\net8.0\Geometric Warehouse (C#).exe
+C:\Users\tahmi\OneDrive\Documents\Geometric Warehouse (C#)\bin\Debug\net8.0\Geometric Warehouse (C#).deps.json
+C:\Users\tahmi\OneDrive\Documents\Geometric Warehouse (C#)\bin\Debug\net8.0\Geometric Warehouse (C#).runtimeconfig.json
+C:\Users\tahmi\OneDrive\Documents\Geometric Warehouse (C#)\bin\Debug\net8.0\Geometric Warehouse (C#).dll
+C:\Users\tahmi\OneDrive\Documents\Geometric Warehouse (C#)\bin\Debug\net8.0\Geometric Warehouse (C#).pdb
+C:\Users\tahmi\OneDrive\Documents\Geometric Warehouse (C#)\obj\Debug\net8.0\Geometric Warehouse (C#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahmi\OneDrive\Documents\Geometric Warehouse (C#)\obj\Debug\net8.0\Geometric Warehouse (C#).AssemblyInfoInputs.cache
+C:\Users\tahmi\OneDrive\Documents\Geometric Warehouse (C#)\obj\Debug\net8.0\Geometric Warehouse (C#).AssemblyInfo.cs
+C:\Users\tahmi\OneDrive\Documents\Geometric Warehouse (C#)\obj\Debug\net8.0\Geometric Warehouse (C#).csproj.CoreCompileInputs.cache
+C:\Users\tahmi\OneDrive\Documents\Geometric Warehouse (C#)\obj\Debug\net8.0\Geometric Warehouse (C#).dll
+C:\Users\tahmi\OneDrive\Documents\Geometric Warehouse (C#)\obj\Debug\net8.0\refint\Geometric Warehouse (C#).dll
+C:\Users\tahmi\OneDrive\Documents\Geometric Warehouse (C#)\obj\Debug\net8.0\Geometric Warehouse (C#).pdb
+C:\Users\tahmi\OneDrive\Documents\Geometric Warehouse (C#)\obj\Debug\net8.0\Geometric Warehouse (C#).genruntimeconfig.cache
+C:\Users\tahmi\OneDrive\Documents\Geometric Warehouse (C#)\obj\Debug\net8.0\ref\Geometric Warehouse (C#).dll
